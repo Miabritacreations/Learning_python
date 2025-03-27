@@ -1,7 +1,6 @@
 #This is my first python program
 print("Hello world!")
 #variables are containers or storage areas for holdong data. Variables include stirngs,integers, floats and boolean
-
 #these are strings
 first_name = "Bridgit"
 food = "pizza"
@@ -9,7 +8,7 @@ email = "nyambekabridgit@gmail.com"
 school = "KCA University Main Campus"
 
 
-print(f"Hello {first_name}")
+print(f"My name is {first_name}")
 print(f"I love {food}")
 print(f"Your email is: {email}")
 print(f"You are from {school}")
@@ -28,7 +27,7 @@ print(f"Your class has {number_of_students} students")
 
 #floats (decimal points)
 
-price = 10.99
+price = 10.9
 gpa = 3.5
 distance = 7.7
 
